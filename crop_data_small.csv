@@ -1,0 +1,21 @@
+district,state,season,soil_type,potassium,temperature_C,humidity_pct,rainfall_mm,crop
+Bhopal,Madhya Pradesh,Kharif,Sandy,210,28.5,65.2,820.4,Rice
+Indore,Madhya Pradesh,Rabi,Loamy,150,22.3,55.1,120.5,Wheat
+Jabalpur,Madhya Pradesh,Zaid,Clayey,320,34.1,70.3,450.2,Maize
+Gwalior,Madhya Pradesh,Kharif,Silty,180,30.2,60.0,600.0,Soybean
+Ujjain,Madhya Pradesh,Rabi,Loamy,275,19.5,50.2,200.4,Wheat
+Bhopal,Madhya Pradesh,Zaid,Clayey,300,33.0,72.4,410.6,Maize
+Indore,Madhya Pradesh,Kharif,Sandy,160,29.8,68.5,900.7,Rice
+Jabalpur,Madhya Pradesh,Rabi,Loamy,195,21.0,48.6,150.3,Wheat
+Gwalior,Madhya Pradesh,Zaid,Silty,240,35.4,75.2,500.1,Maize
+Ujjain,Madhya Pradesh,Kharif,Clayey,280,32.5,66.9,700.9,Soybean
+Bhopal,Madhya Pradesh,Rabi,Sandy,190,20.2,52.3,180.5,Wheat
+Indore,Madhya Pradesh,Zaid,Loamy,310,34.5,73.0,430.2,Maize
+Jabalpur,Madhya Pradesh,Kharif,Clayey,220,29.0,64.2,850.1,Rice
+Gwalior,Madhya Pradesh,Rabi,Silty,160,21.5,49.5,140.3,Wheat
+Ujjain,Madhya Pradesh,Zaid,Loamy,305,33.3,74.0,470.0,Maize
+Bhopal,Madhya Pradesh,Kharif,Clayey,200,28.0,66.0,800.0,Rice
+Indore,Madhya Pradesh,Rabi,Sandy,155,22.0,53.0,130.0,Wheat
+Jabalpur,Madhya Pradesh,Zaid,Loamy,315,35.0,76.0,450.0,Maize
+Gwalior,Madhya Pradesh,Kharif,Silty,185,30.5,65.5,600.0,Soybean
+Ujjain,Madhya Pradesh,Rabi,Clayey,270,19.8,50.5,210.0,Wheat
