@@ -1,0 +1,5 @@
+N,P,K,temperature,humidity,ph,rainfall,label
+90,42,43,20,80,6.5,200,rice
+85,50,40,25,70,7.0,180,wheat
+60,30,30,30,60,6.0,100,maize
+70,35,25,22,75,6.5,150,pulses
